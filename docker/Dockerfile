@@ -18,7 +18,7 @@
 
 ####
 
-FROM python:slim
+FROM python:slim-buster
 
 
 
